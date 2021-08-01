@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhagya019
 - 👀 I’m interested in java & pyhton 
 - 🌱 I’m currently learning java basically
-- 💞️ I’m looking to collaborate with proffesionals in view of enhancing my skilss
+- 💞️ I’m looking to collaborate with proffesionals in view of enhancing my skills
 - 📫 use rajmass176@gmail.com for reching me out
 
 <!---
